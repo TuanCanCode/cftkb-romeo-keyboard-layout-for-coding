@@ -27,4 +27,4 @@ This layer is optional, in my case I setup this layer contain both number keys a
 
 ### Installation & Usage
  - Go to [QML Configurator](https://config.qmk.fm/). Import layout file `coseyfannitutti_romeo_keyboard_layout.json` and compile the layout to get the hex file.
- - Turning keyboard to DFU mode and then flashing hex file with QMK Toolbox.
+ - Turning keyboard to DFU mode and then flashing hex file with [QML Toolbox](https://github.com/qmk/qmk_toolbox/releases)
